@@ -1,0 +1,15 @@
+current directory: /Users/taku/projects/git-app/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/taku/.rbenv/versions/2.6.5/bin/ruby -I /Users/taku/.rbenv/versions/2.6.5/lib/ruby/2.6.0 -r ./siteconf20200529-54926-1ku6u8s.rb extconf.rb
+creating Makefile
+
+current directory: /Users/taku/projects/git-app/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/taku/projects/git-app/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/taku/projects/git-app/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20200529-54926-cd8e66/skiptrace/internal
